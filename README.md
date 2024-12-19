@@ -7,6 +7,7 @@ Movement
 2.rolling to dodge 
 
 Inventory system - in its initial stages 
+you can interact with environment to collec resources
 
 Multiple bullet types , with a bullet switching system 
 
